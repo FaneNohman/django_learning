@@ -1,0 +1,33 @@
+{% extends 'stepshop/base.html' %}
+{% load static %}
+
+{% block content %}
+    <!-- Page Content -->
+    <!-- About Page Starts Here -->
+    <div class="about-page">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <div class="line-dec"></div>
+              <h1>About Us</h1>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="left-image">
+              <img src="{% static 'stepshop/images/about-us.jpg' %}" alt="">
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="right-content">
+              <h4>No info</h4>
+              <div class="share">
+                <h6>Find us on: <span><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-linkedin"></i></a><a href="#"><i class="fa fa-twitter"></i></a></span></h6>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- About Page Ends Here -->
+{% endblock %}

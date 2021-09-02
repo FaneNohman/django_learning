@@ -1,0 +1,35 @@
+[
+  {
+    "category": "Jacket",
+    "name": "classic jacket silver",
+    "image": "product_images/product-01.jpg",
+    "short_desc": "jacket silver classic",
+    "description": "short sleeves, silver color, image of scorpion on back ",
+    "price": "1000.00",
+    "quantity": 3
+  },{
+    "category": "Jacket",
+    "name": "classic jacket black",
+    "image": "product_images/product-02.jpg",
+    "short_desc": "jacket black classic",
+    "description": "short sleeves, black color ",
+    "price": "1000.00",
+    "quantity": 6
+  },{
+    "category": "Socks",
+    "name": "pair of generic socks",
+    "image": "product_images/product-03.jpg",
+    "short_desc": "socks black",
+    "description": "socks black... ",
+    "price": "1.00",
+    "quantity": 12
+  },{
+    "category": "Shoes",
+    "name": "overpriced white shoes",
+    "image": "product_images/product-04.jpg",
+    "short_desc": "normal shoes for preposterous price",
+    "description": "normal shoes for preposterous price, colored white ",
+    "price": "1000000.00",
+    "quantity": 12
+  }
+]
